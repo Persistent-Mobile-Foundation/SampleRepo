@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
   }
 
   s.vendored_frameworks = [
-    'PmfBase.xcframework',
-    'PmfSwift.xcframework'
+    'IBMMobileFirstPlatformFoundation.xcframework',
+    'IBMMobileFoundationSwift.xcframework'
   ]
 
   s.requires_arc = true
