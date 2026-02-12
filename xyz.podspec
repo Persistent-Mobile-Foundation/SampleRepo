@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PmfBase'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'Binary SDK example'
   s.homepage         = 'https://github.com/Persistent-Mobile-Foundation/SampleRepo'
   s.license          = { :type => 'Commercial', :text => 'Proprietary' }
