@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'PmfBase'
+  s.name             = 'Arun'
   s.version          = '1.1.0'
   s.summary          = 'Binary SDK example'
   s.homepage         = 'https://github.com/Persistent-Mobile-Foundation/SampleRepo'
